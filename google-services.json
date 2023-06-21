@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480828684739",
+    "project_id": "wlogger-504bf",
+    "storage_bucket": "wlogger-504bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480828684739:android:39b20eb9671999ad776576",
+        "android_client_info": {
+          "package_name": "com.example.wlogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480828684739-n3ovnd74upmi35qgt46c2r2ppg7jt6u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8UD7e64k6Y39PxwM12y5bvsfz-_3MRAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480828684739-n3ovnd74upmi35qgt46c2r2ppg7jt6u9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
